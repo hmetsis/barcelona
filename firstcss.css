@@ -1,0 +1,10 @@
+body {
+	background: pink;
+	font-size: 11pt;
+	font-family: arial;
+	max-width: 500px;
+}
+
+h1 {
+	color: rgb(256, 99, 33);
+}
